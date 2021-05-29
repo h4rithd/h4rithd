@@ -12,20 +12,20 @@ As a computer security researcher and a technology enthusiast at large, I spend 
 
 You can reach me at 👇
 
-[![Blog](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://shapmanasick.wordpress.com/)
-[![Profile](https://img.shields.io/badge/Website-38B2AC?style=for-the-badge&logo=webdriverio&logoColor=white)](https://shapmanasick.github.io/)
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ShapManasick)
+[![Blog](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://h4rithd.com/blog/)
+[![Profile](https://img.shields.io/badge/Website-38B2AC?style=for-the-badge&logo=webdriverio&logoColor=white)](https://h4rithd.com/)
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/h4rithd)
 [![Linkedin:](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harithdilshan/)
 
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/YMwJF1OQAlbnf6HFjd/giphy.gif" width="50" height="45"> GitHub Trophies
   
-![trophy](https://github-profile-trophy.vercel.app/?username=ShapManasick&theme=onedark&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=h4rithd&theme=onedark&column=7)
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="50" height="35"> GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=ShapManasick&hide=prs,contribs&show_icons=true&theme=nord)
+![stats](https://github-readme-stats.vercel.app/api?username=h4rithd&hide=prs,contribs&show_icons=true&theme=nord)
 
 Feel free to give Your Suggestions, Issues or PRs🌍
 
