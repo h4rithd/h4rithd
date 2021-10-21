@@ -19,7 +19,7 @@ You can reach me at 👇
 
 <div align="center">
 
-## <img src="https://i.giphy.com/media/fSRwObL55X3UkYQt54/giphy.webp" width="50" height="45"> Trophies
+## <img src="https://i.giphy.com/media/oUhQb6SSMXEDnvBnbJ/200w.webp" width="50" height="45"> Trophies
   
 ## <img src="https://media.giphy.com/media/YMwJF1OQAlbnf6HFjd/giphy.gif" width="50" height="45"> GitHub Trophies
   
