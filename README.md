@@ -23,9 +23,9 @@ You can reach me at 👇
 | C\|EH      | C\|EH(P)      | C\|EH(M) | C\|PENT| L\|PT|
 |------------|-------------|---------|---------|---------|
 | <img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png">| <img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHPRACTICAL_5FB43496785F.png"> | <img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHMASTER_5FB43496785F.png"> | <img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CPENT_8890F2209CCC.png">| <img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/LPTMASTER_330BB5B4D0B9.png">|
-| Dante(HTB)      |       | || |
-|------------|-------------|---------|---------|---------|
-| <img src="https://app.hackthebox.eu/images/icons/ic-prolabs/ic-dante-overview.svg">| <img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHPRACTICAL_5FB43496785F.png"> | <img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHMASTER_5FB43496785F.png"> | <img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CPENT_8890F2209CCC.png">| <img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/LPTMASTER_330BB5B4D0B9.png">|  
+| Dante(HTB)  |||||
+| <img src="https://app.hackthebox.eu/images/icons/ic-prolabs/ic-dante-overview.svg">| | | ||  
+  
 ## <img src="https://media.giphy.com/media/YMwJF1OQAlbnf6HFjd/giphy.gif" width="50" height="45"> GitHub Trophies
   
 ![trophy](https://github-profile-trophy.vercel.app/?username=h4rithd&theme=onedark&column=7)
