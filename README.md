@@ -20,7 +20,10 @@ You can reach me at 👇
 <div align="center">
 
 ## <img src="https://i.giphy.com/media/oUhQb6SSMXEDnvBnbJ/200w.webp" width="50" height="45"> Trophies
-![alt text](https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png)
+![alt text]()
+| col 1      | col 2      |
+|------------|-------------|
+| https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png| image 2 |
   
 ## <img src="https://media.giphy.com/media/YMwJF1OQAlbnf6HFjd/giphy.gif" width="50" height="45"> GitHub Trophies
   
