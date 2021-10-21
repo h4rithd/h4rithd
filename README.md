@@ -18,6 +18,8 @@ You can reach me at 👇
 [![Linkedin:](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harithdilshan/)
 
 <div align="center">
+
+## <img src="https://media0.giphy.com/media/nCRkXBaeCPyeX1fkrc/giphy.gif" width="50" height="45"> Trophies
   
 ## <img src="https://media.giphy.com/media/YMwJF1OQAlbnf6HFjd/giphy.gif" width="50" height="45"> GitHub Trophies
   
