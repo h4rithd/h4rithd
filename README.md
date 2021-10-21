@@ -20,7 +20,7 @@ You can reach me at 👇
 <div align="center">
 
 ## <img src="https://i.giphy.com/media/oUhQb6SSMXEDnvBnbJ/200w.webp" width="50" height="45"> Trophies
-| CEH      | CEH(P)      | CEHM | CPENT| LPT|
+| C\|EH      | C\|EH(P)      | C\|EH(M) | C\|PENT| L\|PT|
 |------------|-------------|---------|---------|---------|
 | <img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png">| <img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHPRACTICAL_5FB43496785F.png"> | <img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHMASTER_5FB43496785F.png"> | <img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CPENT_8890F2209CCC.png">| <img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/LPTMASTER_330BB5B4D0B9.png">|
   
