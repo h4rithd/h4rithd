@@ -19,8 +19,8 @@ You can reach me at 👇
 
 <div align="center">
 
-## <img src="https://media3.giphy.com/media/pFZyq1H4V8WHkr8JF0/200w.webp" width="50" height="45"> Trophies
-  
+## <img src="https://i.giphy.com/media/oUhQb6SSMXEDnvBnbJ/200w.webp" width="50" height="45"> Trophies
+  https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png
 ## <img src="https://media.giphy.com/media/YMwJF1OQAlbnf6HFjd/giphy.gif" width="50" height="45"> GitHub Trophies
   
 ![trophy](https://github-profile-trophy.vercel.app/?username=h4rithd&theme=onedark&column=7)
