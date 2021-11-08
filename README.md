@@ -21,7 +21,7 @@ You can reach me at 👇
 
 ## <img src="https://i.giphy.com/media/oUhQb6SSMXEDnvBnbJ/200w.webp" width="50" height="45"> Trophies
 | C\|PENT | C\|EH (M) | C\|EH (P) | C\|EH |
-|------------|-------------|---------|---------|---------|
+|------------|---------|---------|---------|
 |<img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CPENT_8890F2209CCC.png">|<img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHMASTER_5FB43496785F.png">|<img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHPRACTICAL_5FB43496785F.png">|<img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png">|
 | Dante(HTB)  |||||
 | <img src="https://app.hackthebox.eu/images/icons/ic-prolabs/ic-dante-overview.svg">| | | ||  
