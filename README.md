@@ -17,7 +17,7 @@ You can reach me at 👇
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/h4rithd)
 [![Linkedin:](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harithdilshan/)
 [![HackTheBox:](https://img.shields.io/badge/hackthebox-1b2431?style=for-the-badge&logo=hackthebox&logoColor=light-green)](https://app.hackthebox.com/profile/550483)
-
+[![HackTheBox:](https://img.shields.io/badge/hackthebox-a3e54a?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/550483)
 <div align="center">
 
 ## <img src="https://i.giphy.com/media/oUhQb6SSMXEDnvBnbJ/200w.webp" width="50" height="45"> Trophies
