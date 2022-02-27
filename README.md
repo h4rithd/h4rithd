@@ -2,7 +2,7 @@
 
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=h4rithd.h4rithd)
 
-As a Penetration Tester and a Technology Enthusiast at large,  I spend a lot of time for debugging, learning, playing CTFs and writing my blog posts while working as a professional. Trying to get better experience in red teaming, pivoting techniques, AV evasion and analyzing modern malware techniques. Also put my hands on, hardware stuff, including Arduino & Raspberry pi. I am always looking for a fresh challenge. 💡
+As a Offensive Security Engineer and a Technology Enthusiast at large,  I spend a lot of time for debugging, learning, playing CTFs and writing my blog posts while working as a professional. Trying to get better experience in red teaming, pivoting techniques, AV evasion and analyzing modern malware techniques. Also put my hands on, hardware stuff, including Arduino & Raspberry pi. I am always looking for a fresh challenge. 💡
 
 <ul>
 <li>👨‍🎓 Graduated at SLIIT specialized in Cyber Security.</li>
