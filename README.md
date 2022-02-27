@@ -16,6 +16,7 @@ You can reach me at 👇
 [![Profile](https://img.shields.io/badge/Website-38B2AC?style=for-the-badge&logo=webdriverio&logoColor=white)](https://h4rithd.com/)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/h4rithd)
 [![Linkedin:](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harithdilshan/)
+[![HackTheBox:](https://img.shields.io/badge/hackthebox-1b2431?style=for-the-badge&logo=hackthebox&logoColor=light-green)](https://app.hackthebox.com/profile/550483)
 
 <div align="center">
 
