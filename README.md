@@ -1,6 +1,6 @@
 <h2> 🤏😎 Hi,  I am Harith! <img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70"></h2>
 
-### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShapManasick.ShapManasick)
+### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=h4rithd.h4rithd)
 
 As a Penetration Tester and a Technology Enthusiast at large,  I spend a lot of time for debugging, learning, playing CTFs and writing my blog posts while working as a professional. Trying to get better experience in red teaming, pivoting techniques, AV evasion and analyzing modern malware techniques. Also put my hands on, hardware stuff, including Arduino & Raspberry pi. I am always looking for a fresh challenge. 💡
 
