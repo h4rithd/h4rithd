@@ -23,7 +23,7 @@ You can reach me at 👇
 ## <img src="https://i.giphy.com/media/oUhQb6SSMXEDnvBnbJ/200w.webp" width="50" height="45"> Trophies
 | OSCP | CRTS | C\|PENT | C\|EH (M) | C\|EH (P) | C\|EH | Dante (HTB)  |
 |-----------|------------|------------|---------|---------|---------|------|
-|<img  width="400" height="200" src="https://images.credly.com/size/340x340/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png">|<img  width="400" height="200" src="https://templates.images.credential.net/16473224202129240198495527164557.png">|<img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CPENT_8890F2209CCC.png">|<img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHMASTER_5FB43496785F.png">|<img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHPRACTICAL_5FB43496785F.png">|<img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png"> | <img src="https://app.hackthebox.eu/images/icons/ic-prolabs/ic-dante-overview.svg">| 
+|<img  width="400" height="400" src="./img/OSCP.png">|<img  width="400" height="400" src="https://templates.images.credential.net/16473224202129240198495527164557.png">|<img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CPENT_8890F2209CCC.png">|<img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHMASTER_5FB43496785F.png">|<img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHPRACTICAL_5FB43496785F.png">|<img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png"> | <img src="https://app.hackthebox.eu/images/icons/ic-prolabs/ic-dante-overview.svg">| 
   
 ## <img src="https://media.giphy.com/media/YMwJF1OQAlbnf6HFjd/giphy.gif" width="50" height="45"> GitHub Trophies
   
