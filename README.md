@@ -23,7 +23,7 @@ You can reach me at 👇
 ## <img src="https://i.giphy.com/media/oUhQb6SSMXEDnvBnbJ/200w.webp" width="50" height="45"> Trophies
 | OSCP | CRTS | C\|PENT | C\|EH (M) | C\|EH (P) | C\|EH | Dante (HTB)  |
 |-----------|------------|------------|---------|---------|---------|------|
-|<img src="./img/OSCP.png">|<img src="./img/CRTS.png">|<img src="./img/CPENT.png">|<img src="./img/CEH-M.png">|<img src="./img/CEH-P.png">|<img src="./img/CEH.png"> | <img src="./img/dante.png">| 
+|<img src="./img/OSCP.png" href="https://www.credential.net/d47f0b7b-cb87-4dc3-b4ea-498df7fa07aa">|<img src="./img/CRTS.png">|<img src="./img/CPENT.png">|<img src="./img/CEH-M.png">|<img src="./img/CEH-P.png">|<img src="./img/CEH.png"> | <img src="./img/dante.png">| 
   
 ## <img src="https://media.giphy.com/media/YMwJF1OQAlbnf6HFjd/giphy.gif" width="50" height="45"> GitHub Trophies
   
