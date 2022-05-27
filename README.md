@@ -20,19 +20,21 @@ You can reach me at 👇
 
 <div align="center">
   
-## <img src="https://i.giphy.com/media/oUhQb6SSMXEDnvBnbJ/200w.webp" width="50" height="45"> Trophies
+## <img src="https://media.giphy.com/media/YMwJF1OQAlbnf6HFjd/giphy.gif" width="50" height="45"> Trophies
 | OSCP | CRTS | C\|PENT | C\|EH (M) | C\|EH (P) | C\|EH | Dante (HTB)  |
 |-----------|------------|------------|---------|---------|---------|------|
-|<a href="https://www.credential.net/d47f0b7b-cb87-4dc3-b4ea-498df7fa07aa"><img src="./img/OSCP.png"></a>|<a href="https://www.credential.net/c80568be-2b18-4dae-b9b9-ec743fe8e9a5"><img src="./img/CRTS.png"></a>|<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=1LYwlgenuppwHx3d9nWh95L/4QUjz8OVxvqphb5dhWQ="><img src="./img/CPENT.png"></a>|<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=hrh5u5BN7tpBPrNa4iembY0FdEiqRbmviWUXqCxTbfg="><img src="./img/CEH-M.png"></a>|<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=qWH4heUqwAj7/QDQCz21ZSDsO+xmKYBm+w0HyMIFpB0="><img src="./img/CEH-P.png"></a>|<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=Dgy3jUvoy4X60j8c5XvsRKgtLu1zpcLcFnecYVwWLV8="><img src="./img/CEH.png"></a> | <a href="https://app.hackthebox.com/profile/550483"><img src="./img/dante.png"></a>| 
-  
-## <img src="https://media.giphy.com/media/YMwJF1OQAlbnf6HFjd/giphy.gif" width="50" height="45"> GitHub Trophies
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=h4rithd&theme=onedark&column=7)
+|<a target="_blank" href="https://www.credential.net/d47f0b7b-cb87-4dc3-b4ea-498df7fa07aa"><img src="./img/OSCP.png"></a>|<a target="_blank" href="https://www.credential.net/c80568be-2b18-4dae-b9b9-ec743fe8e9a5"><img src="./img/CRTS.png"></a>|<a target="_blank" href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=1LYwlgenuppwHx3d9nWh95L/4QUjz8OVxvqphb5dhWQ="><img src="./img/CPENT.png"></a>|<a target="_blank" href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=hrh5u5BN7tpBPrNa4iembY0FdEiqRbmviWUXqCxTbfg="><img src="./img/CEH-M.png"></a>|<a target="_blank" href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=qWH4heUqwAj7/QDQCz21ZSDsO+xmKYBm+w0HyMIFpB0="><img src="./img/CEH-P.png"></a>|<a target="_blank" href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=Dgy3jUvoy4X60j8c5XvsRKgtLu1zpcLcFnecYVwWLV8="><img src="./img/CEH.png"></a> | <a target="_blank" href="https://app.hackthebox.com/profile/550483"><img src="./img/dante.png"></a>| 
 
+<! --- 
+## <img src="https://media.giphy.com/media/YMwJF1OQAlbnf6HFjd/giphy.gif" width="50" height="45"> GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=h4rithd&theme=onedark&column=7)
+  
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="50" height="35"> GitHub Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=h4rithd&hide=prs,contribs&show_icons=true&theme=nord)
-
+--- !> 
+  
 Feel free to give Your Suggestions, Issues or PRs🌍
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
