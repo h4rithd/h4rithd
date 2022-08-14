@@ -6,7 +6,6 @@ As a Offensive Security Engineer and a Technology Enthusiast at large,  I spend 
 
 <ul>
 <li>👨‍🎓 Graduated at SLIIT specialized in Cyber Security.</li>
-<li>👷‍♂️ Working at Dialog Axiata</li>
 <li>🌏 From Sri Lanka </li>
 </ul>
 
