@@ -5,8 +5,8 @@
 As an Offensive Security Engineer and a Technology Enthusiast at large, I spend a lot of time debugging, learning, playing CTFs, and writing my blog posts while working as a professional and trying to get better experience in red teaming, pivoting techniques, AV evasion and analyzing modern malware techniques. I also put my hands on, hardware stuff, including Arduino & Raspberry Pi. I am always looking for a fresh challenge. 💡
 
 <ul>
-<li>👨‍🎓 Graduated at SLIIT specialized in Cyber Security.</li>
-<li>🌏 From Sri Lanka </li>
+<li>👨‍🎓 Graduated at SLIIT specializing in Cyber Security.</li>
+<li>🇱🇰 From Sri Lanka </li>
 </ul>
 
 You can reach me at 👇
