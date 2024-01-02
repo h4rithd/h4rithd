@@ -1,4 +1,4 @@
-<h2> 🤏😎 Hi,  I am Harith! <img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70"></h2>
+<h2> 😎🤏 Hi,  I am Harith! <img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70"></h2>
 
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=h4rithd.h4rithd)
 
