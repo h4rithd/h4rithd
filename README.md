@@ -32,10 +32,6 @@ You can reach me at 👇
   
 Feel free to give Your Suggestions, Issues or PRs🌍
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/harithdilshan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a>
-
 </div>
 
 
