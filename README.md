@@ -3,7 +3,7 @@
 ### Offensive Security Engineer • 7+ Years in Cyber Security • CTF Player • Builder  
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=h4rithd.h4rithd)
 
-I am an **Lead Offensive Security Engineer** with **7+ years of hands-on experience in cyber security**.
+I am a **Lead Offensive Security Engineer** with **7+ years of hands-on experience in cyber security**.
 My work and interests are focused on offensive security, penetration testing, red teaming, exploit development, pivoting techniques, AV evasion, malware analysis, and practical security research. I spend a lot of time debugging, learning, playing CTFs, building labs, writing technical blog posts, and continuously sharpening my tradecraft. Beyond software security, I also enjoy working with hardware and embedded systems, including Arduino and Raspberry Pi projects. I like fresh challenges, deep technical problems, and anything that forces me to level up. 💡
 
 <ul>
