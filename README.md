@@ -29,16 +29,6 @@ I'm **Harith Dilshan**. I find out how and why systems break, and I don't stop a
 
 My work is **web, mobile and network penetration testing**. Mobile holds a special place: apps that pin, obfuscate and detect, and the scripts it takes to see what they really do. Outside engagements I play CTFs, author Hack The Box machines, debug vulnerabilities down to the instruction, and write it all up on my [blog](https://blog.h4rithd.com) and [notes](https://pentest.h4rithd.com).
 
-| `id h4rithd`   |                                                                    |
-| :------------- | :----------------------------------------------------------------- |
-| **Role**       | Offensive Security Engineer · 7+ years in cyber security           |
-| **Practice**   | Web, mobile and network penetration testing                        |
-| **Soft spot**  | Mobile application security                                        |
-| **Exploring**  | Red teaming, AV evasion, malware analysis, hardware                |
-| **Community**  | Hack The Box machine author · blog · open pentest notes            |
-| **Education**  | SLIIT, specialising in Cyber Security                              |
-| **Location**   | `/dev/null`                                                        |
-
 ## `0x01` loot
 
 <p align="center">
@@ -65,14 +55,12 @@ Host is up (0.00s latency, always).
 
 PORT       STATE     SERVICE        VERSION
 443/tcp    open      web-appsec     Burp Suite, ffuf, feroxbuster, SQLMap · manual-first, chain to impact
-5555/tcp   open      adb            Android, jadx, Magisk · Burp CA in the system store
+5555/tcp   open      adb            Android, jadx, Magisk
 27042/tcp  open      frida          Frida · scripted pinning and root-detection bypass, Android + iOS
 88/tcp     open      kerberos       Rubeus, Certipy, Impacket
 445/tcp    open      microsoft-ds   BloodHound, Mimikatz, Nishang · pivots through Ligolo-ng
 1234/tcp   open      gdbserver      Ghidra, Cutter, radare2, dnSpy, GDB + GEF · read the binary
 50050/tcp  filtered  cs-teamserver  Cobalt Strike, Covenant, Empire, PowerSploit · still exploring
-
-Service Info: OS: macOS arm64, Kali; Langs: Python, Bash, PowerShell, Swift, Java, C#, TypeScript
 
 Nmap done: 1 IP address (1 host up), 7 services, 0 assumptions left untested
 ```
